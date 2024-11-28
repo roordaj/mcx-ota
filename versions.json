@@ -24,22 +24,22 @@
                 {
                     "version": "v2.0.0",
                     "firmwareVersions": [
-                        "v0.2.0",
-                        "v0.2.1"
+                        "v0.2.1",
+                        "v0.2.0"
                     ]
                 },
                 {
                     "version": "v3.0.0",
                     "firmwareVersions": [
-                        "v0.2.0",
-                        "v0.2.1"
+                        "v0.2.1",
+                        "v0.2.0"
                     ]
                 },
                 {
                     "version": "v4.0.0",
                     "firmwareVersions": [
-                        "v0.2.0",
-                        "v0.2.1"
+                        "v0.2.1",
+                        "v0.2.0"
                     ]
                 }
             ]
