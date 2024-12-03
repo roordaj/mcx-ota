@@ -1,45 +1,12 @@
 {
     "products": [
         {
-            "name": "cu1208",
+            "name": "control_unit",
             "hardwareVersions": [
-                {
-                    "version": "v1.0.3",
-                    "firmwareVersions": [
-                        "v0.1.7",
-                        "v0.1.6"
-                    ]
-                },
-                {
-                    "version": "v2.0.0",
-                    "firmwareVersions": [
-                        "v0.2.0"
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "cu1208 imu",
-            "hardwareVersions": [
-                {
-                    "version": "v2.0.0",
-                    "firmwareVersions": [
-                        "v0.2.1",
-                        "v0.2.0"
-                    ]
-                },
-                {
-                    "version": "v3.0.0",
-                    "firmwareVersions": [
-                        "v0.2.1",
-                        "v0.2.0"
-                    ]
-                },
                 {
                     "version": "v4.0.0",
                     "firmwareVersions": [
-                        "v0.2.1",
-                        "v0.2.0"
+                        "v0.3.0"
                     ]
                 }
             ]
