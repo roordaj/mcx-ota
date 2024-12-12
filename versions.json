@@ -8,6 +8,12 @@
                     "firmwareVersions": [
                         "v0.3.1"
                     ]
+                },
+                {
+                    "version": "v3.0.0",
+                    "firmwareVersions": [
+                        "v0.3.1"
+                    ]
                 }
             ]
         }
